@@ -2,6 +2,7 @@ mizchi さんの手癖 2020年4月12日時点 https://twitter.com/mizchi/status/
 
 ```
 npx create-react-app app --template typescript  # https://create-react-app.dev/docs/adding-typescript/
+cd app
 npx prettier --write .                        # https://prettier.io/docs/en/install.html
 //empty index.ts
 ```
